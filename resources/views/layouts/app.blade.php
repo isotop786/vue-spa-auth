@@ -23,9 +23,13 @@
     <div id="app">
 
 
+
             <div class="container mt-4 p-4">
+
                 @yield('content')
             </div>
+
+
 
     </div>
 </body>
